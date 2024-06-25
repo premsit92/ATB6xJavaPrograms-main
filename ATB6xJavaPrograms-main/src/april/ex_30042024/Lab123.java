@@ -4,5 +4,7 @@ public class Lab123 {
     public static void main(String[] args) {
         // Do Prime Number and FizzBuzz
 
+        System.out.println("Hello World");
+
     }
 }
